@@ -1,6 +1,6 @@
 # VisionX
 This project is created to solve PS of computer vision event in IIT Kharagpur tech-fest.
-Team Members: Pavnesh Chaturvedi, Harshit Garg, Rushil Makkar 
+Team Members: [Pavnesh Chaturvedi](https://github.com/pc-beast), [Harshit Garg](https://github.com/harshitgrg), [Rushil Makkar](https://github.com/rajrushilmakkar)
 # Problem Statement
 To build a robot that uses an onboard camera to detect a path formed by circles and traverses on it autonomously and is capable of shape detection and barcode reading.
 
